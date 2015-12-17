@@ -1,4 +1,4 @@
-FROM smebberson/alpine-consul-nginx-nodejs
+FROM smebberson/alpine-consul-nginx-nodejs:dev
 MAINTAINER Scott Mebberson <scott@scottmebberson.com>
 
 ENV NODE_ENV=development NODE_PORT=4000

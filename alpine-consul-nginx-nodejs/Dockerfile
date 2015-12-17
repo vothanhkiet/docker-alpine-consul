@@ -1,4 +1,4 @@
-FROM smebberson/alpine-consul-nginx
+FROM smebberson/alpine-consul-nginx:dev
 MAINTAINER Scott Mebberson <scott@scottmebberson.com>
 
 # Install Node.js, and the latest version of npm (and Python in case any npm modules require building)
