@@ -233,7 +233,7 @@ Latest version is `1.0.0`, or `latest`.
 
 This image is designed to run a Node.js application within the context of service discovery (via Consul).
 
-Latest version is `5.2.1`, or `latest`.
+Latest version is `5.2.2`, or `latest`.
 
 - [README.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/README.md)
 - [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md)
@@ -244,7 +244,7 @@ This image is designed to run Nginx within the context of service discovery (via
 
 It's suited for running an Nginx proxy or to load balance with Nginx to another container.
 
-Latest version is `3.0.0`, or `latest`.
+Latest version is `3.0.1`, or `latest`.
 
 - [README.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nginx/README.md)
 - [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nginx/VERSIONS.md)
@@ -280,7 +280,7 @@ Latest version is `2.0.0`, or `latest`.
 
 This image includes Nginx with a very basic setup.
 
-Latest version is `2.1.1`, or `latest`.
+Latest version is `3.0.0`, or `latest`.
 
 - [README.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-nginx/README.md)
 - [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-nginx/VERSIONS.md)
@@ -298,10 +298,10 @@ Latest version is `2.1.1`, or `latest`.
 
 This includes Node.js.
 
-Latest version is `5.2.1`, or `latest`.
+Latest version is `5.2.2`, or `latest`.
 
-- [README.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v5.2.1/alpine-nodejs/README.md)
-- [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v5.2.1/alpine-nodejs/VERSIONS.md)
+- [README.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v5.2.2/alpine-nodejs/README.md)
+- [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v5.2.2/alpine-nodejs/VERSIONS.md)
 
 ### alpine-rabbitmq
 
