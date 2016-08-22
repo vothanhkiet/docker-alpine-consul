@@ -1,5 +1,7 @@
 # docker-alpine
 
+[![Join the chat at https://gitter.im/smebberson/docker-alpine](https://badges.gitter.im/smebberson/docker-alpine.svg)](https://gitter.im/smebberson/docker-alpine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Highly configurable Docker images running [Alpine linux][alpinelinux] and [s6][s6] process management.
 
 **Table of contents**
@@ -289,7 +291,7 @@ Latest version is `3.0.0`, or `latest`.
 
 This image includes both Nginx and Node.js. It's suitable if you want to have Node.js perform configuration for Nginx.
 
-Latest version is `2.1.1`, or `latest`.
+Latest version is `4.2.2`, or `latest`.
 
 - [README.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-nginx-nodejs/README.md)
 - [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-nginx-nodejs/VERSIONS.md)
@@ -298,10 +300,10 @@ Latest version is `2.1.1`, or `latest`.
 
 This includes Node.js.
 
-Latest version is `5.2.2`, or `latest`.
+Latest version is `6.0.0`, or `latest`.
 
-- [README.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v5.2.2/alpine-nodejs/README.md)
-- [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v5.2.2/alpine-nodejs/VERSIONS.md)
+- [README.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.0.0/alpine-nodejs/README.md)
+- [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.0.0/alpine-nodejs/VERSIONS.md)
 
 ### alpine-rabbitmq
 
