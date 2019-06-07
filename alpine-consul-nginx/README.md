@@ -16,7 +16,9 @@ This image features:
 
 ## Versions
 
-- `3.0.1`, `latest` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v3.0.1/alpine-consul-nginx/Dockerfile)
+- `3.2.0`, `latest` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v3.2.0/alpine-consul-nginx/Dockerfile)
+- `3.1.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v3.1.0/alpine-consul-nginx/Dockerfile)
+- `3.0.1` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v3.0.1/alpine-consul-nginx/Dockerfile)
 - `3.0.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v3.0.0/alpine-consul-nginx/Dockerfile)
 - `2.0.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v2.0.0/alpine-consul-nginx/Dockerfile)
 - `1.0.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v1.0.0/alpine-consul-nginx/Dockerfile)

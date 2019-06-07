@@ -5,6 +5,403 @@ Due to the nature of versioning and the fact this repository houses multiple Doc
 
 Each release records it's own specific changes in a VERSIONS.md file.
 
+## 2019.04.13
+
+- `alpine-nodejs`: upgraded Node.js to `v8.13.0`.
+- `alpine-nodejs`: upgraded Node.js to `v8.14.0`.
+- `alpine-nodejs`: upgraded Node.js to `v8.15.0`.
+
+### Releases
+
+- [Release `v8.13.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.13.0/alpine-nodejs)
+- [Release `v8.14.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.14.0/alpine-nodejs)
+- [Release `v8.15.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.15.0/alpine-nodejs)
+
+## 2019.04.11
+
+- `alpine-nodejs`: upgraded Node.js to `v8.12.0`.
+
+### Releases
+
+- [Release `v8.12.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.12.0/alpine-nodejs)
+
+## 2019.04.10
+
+- `alpine-nodejs`: upgraded Node.js to `v8.9.0`.
+- `alpine-nodejs`: upgraded Node.js to `v8.10.0`.
+- `alpine-nodejs`: upgraded Node.js to `v8.11.0`.
+
+### Releases
+
+- [Release `v8.9.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.9.0/alpine-nodejs)
+- [Release `v8.10.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.10.0/alpine-nodejs)
+- [Release `v8.11.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.11.0/alpine-nodejs)
+
+## 2019.04.09
+
+- `alpine-nodejs`: upgraded Node.js to `v8.4.0`.
+- `alpine-nodejs`: upgraded Node.js to `v8.5.0`.
+- `alpine-nodejs`: upgraded Node.js to `v8.6.0`.
+- `alpine-nodejs`: upgraded Node.js to `v8.7.0`.
+- `alpine-nodejs`: upgraded Node.js to `v8.8.0`.
+
+### Releases
+
+- [Release `v8.4.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.4.0/alpine-nodejs)
+- [Release `v8.5.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.5.0/alpine-nodejs)
+- [Release `v8.6.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.6.0/alpine-nodejs)
+- [Release `v8.7.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.7.0/alpine-nodejs)
+- [Release `v8.8.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.8.0/alpine-nodejs)
+
+## 2019.04.08
+
+- `alpine-nodejs`: upgraded Node.js to `v8.3.0`.
+
+### Releases
+
+- [Release `v8.3.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.3.0/alpine-nodejs)
+
+## 2019.04.04
+
+- `alpine-nodejs`: upgraded Node.js to `v8.0.0`.
+- `alpine-nodejs`: upgraded `alpine-base` to `3.3.0`.
+- `alpine-nodejs`: upgraded Node.js to `v8.1.0`.
+- `alpine-nodejs`: upgraded Node.js to `v8.2.0`.
+
+### Releases
+
+- [Release `v8.0.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.0.0/alpine-nodejs)
+- [Release `v8.1.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.1.0/alpine-nodejs)
+- [Release `v8.2.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v8.2.0/alpine-nodejs)
+
+## 2019.03.31
+
+- `alpine-base`: upgraded Alpine to `v3.9`.
+- `alpine-base`: upgraded s6-overlay to `v1.22.1.0`.
+
+### Releases
+
+- [Release `v3.3.0` of `alpine-base`](https://github.com/smebberson/docker-alpine/tree/alpine-base-v3.3.0/alpine-base)
+
+## 2017.10.31
+
+- `alpine-nodejs`: upgraded to Node.js `v6.11.4`.
+
+### Releases
+
+- [Release `v6.8.4` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v6.8.2/alpine-consul)
+
+## 2017.10.29
+
+- `alpine-nodejs`: upgraded to Node.js `v6.11.2`.
+- `alpine-nodejs`: upgraded to Node.js `v6.11.2`.
+
+### Releases
+
+- [Release `v6.8.2` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v6.8.2/alpine-consul)
+- [Release `v6.8.3` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v6.8.3/alpine-consul)
+
+## 2017.10.28
+
+- `alpine-nodejs`: upgraded to Node.js `v6.11.1`.
+
+### Releases
+
+- [Release `v6.8.1` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v6.8.1/alpine-consul)
+
+## 2017.10.27
+
+- `alpine-nodejs`: upgraded to Node.js `v6.10.3`.
+- `alpine-nodejs`: upgraded to Node.js `v6.11.0`.
+
+### Releases
+
+- [Release `v6.7.3` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v6.7.3/alpine-consul)
+- [Release `v6.8.0` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v6.8.0/alpine-consul)
+
+## 2017.10.26
+
+- `alpine-nodejs`: upgraded to Node.js `v6.10.1`.
+- `alpine-nodejs`: upgraded to Node.js `v6.10.2`.
+
+### Releases
+
+- [Release `v6.7.1` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v6.7.1/alpine-consul)
+- [Release `v6.7.2` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v6.7.2/alpine-consul)
+
+## 2017.07.05
+
+- `alpine-consul`: updated consul to `v0.8.5`. Transitioned from beta to full release.
+- `alpine-consul-base`: updated consul-template to `v0.19.0`. Transitioned from beta to full release.
+- `alpine-consul-ui`: transitioned from beta to full release.
+- `alpine-consul-redis`: updated Redis to `v3.2.5`.
+- `alpine-consul-nginx`: transitioned from beta to full release.
+- `alpine-consul-nodejs`: transitioned from beta to full release.
+
+### Releases
+
+- [Release `v3.2.0` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v3.2.0/alpine-consul)
+- [Release `v4.2.0` of `alpine-consul-base`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-base-v4.2.0/alpine-consul-base)
+- [Release `v2.2.0` of `alpine-consul-ui`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-ui-v2.2.0/alpine-consul-ui)
+- [Release `v2.2.0` of `alpine-consul-redis`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-redis-v2.2.0/alpine-consul-redis)
+- [Release `v3.2.0` of `alpine-consul-nginx`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nginx-v3.2.0/alpine-consul-nginx)
+- [Release `v5.11.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.11.0/alpine-consul-nodejs)
+
+## 2017.06.14
+
+- `alpine-consul`:
+    - added `util-linux` package for `uuidgen` binary.
+    - `consul-node-id` now uses `uuidgen` for better UUID generation that doesn't clash.
+    - Upgraded Consul to `v0.8.4`.
+
+### Releases
+
+- [Release `v3.2.0-beta.2` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v3.2.0-beta.2/alpine-consul)
+- [Release `v4.2.0-beta.2` of `alpine-consul-base`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-base-v4.2.0-beta.2/alpine-consul-base)
+- [Release `v2.2.0-beta.2` of `alpine-consul-ui`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-ui-v2.2.0-beta.2/alpine-consul-ui)
+- [Release `v3.2.0-beta.2` of `alpine-consul-nginx`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nginx-v3.2.0-beta.2/alpine-consul-nginx)
+- [Release `v5.11.0-beta.2` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.11.0-beta.2/alpine-consul-nodejs)
+
+## 2017.06.08
+
+- `alpine-consul-base`: updated consul-template configuration file to use a stanza rather than a string.
+
+### Releases
+
+- [Release `v3.2.0-beta.1` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v3.2.0-beta.1/alpine-consul)
+- [Release `v4.2.0-beta.1` of `alpine-consul-base`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-base-v4.2.0-beta.1/alpine-consul-base)
+- [Release `v2.2.0-beta.1` of `alpine-consul-ui`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-ui-v2.2.0-beta.1/alpine-consul-ui)
+- [Release `v5.11.0-beta.1` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.11.0-beta.1/alpine-consul-nodejs)
+- [Release `v3.2.0-beta.1` of `alpine-consul-nginx`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nginx-v3.2.0-beta.1/alpine-consul-nginx)
+
+## 2017.06.02
+
+- `alpine-consul`, `alpine-consul-base`, `alpine-consul-ui`:
+    - upgraded to Consul `v0.8.3`.
+    - added the new `-data-id` argument (customisable via replacing the `/usr/bin/consul-node-id` script).
+    - added the `-data-dir` argument (customisable via the `CONSUL_DATA_DIR` ENV variable).
+    - exposed 8600 and 8600/udp.
+- `alpine-consul-base`: upgraded consul-template to `v0.18.5`.
+- `alpine-consul-base`: added the `CONSUL_TEMPLATE_RUNAS` ENV variable to customise which user runs consul-template.
+- `alpine-consul-base`: added the `CONSUL_RUNAS` ENV variable to customise which user runs consul.
+- `alpine-consul-redis`: upgrade Redis to `v3.2.5-r0`.
+- `alpine-consul`: added the `GO_DNSMASQ_RUNAS` ENV variable to customise which user runs go-dnsmasq.
+- `alpine-consul`: added the `CONSUL_BOOTSTRAP_DEBUG` to show debug messages. Set to `true`. Information will be output by the `consul-available`, `consul-join` and `consul-join-wan` scripts.
+- `alpine-consul`: added the `CONSUL_AVAILABLE_SLEEP` ENV variable to customise the amount of seconds to sleep between checking for other consul servers.
+
+## 2017.05.31
+
+### Releases
+
+- [Release `v3.2.0` of `alpine-base`](https://github.com/smebberson/docker-alpine/tree/alpine-base-v3.2.0/alpine-base)
+
+## 2017.05.09
+
+- `alpine-nginx-nodejs`: upgraded to Node.js `v6.4.0`.
+
+### Releases
+
+- [Release `v4.4.0` of `alpine-nginx-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nginx-nodejs-v4.4.0/alpine-nginx-nodejs)
+
+## 2017.05.08
+
+- `alpine-nginx-nodejs`: upgraded to Node.js `v6.3.1`.
+- `alpine-base`: created new beta branch `abh-master` from PR #72:
+    - Upgraded to Alpine `v3.5`.
+    - Add the `libcap` package.
+    - Update `s6-overlay` to `v1.19.1.1`.
+- `alpine-base`: move away from `ADD` to `COPY`, inline with Docker best practices.
+- `alpine-base`: renamed `GODNSMASQ_VERSION` to `GO_DNSMASQ_VERSION`.
+- `alpine-base`: added `GO_DNSMASQ_RUNAS` for easy configuration of the user in which `go-dnsmasq` will run as. This is to support environments in which `setcap` doesn't work.
+
+### Releases
+
+- [Release `v4.3.1` of `alpine-nginx-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nginx-nodejs-v4.3.1/alpine-nginx-nodejs)
+- [Release `v3.2.0-beta.1` of `alpine-base`](https://github.com/smebberson/docker-alpine/tree/alpine-base-v3.2.0-beta.1/alpine-base)
+
+## 2017.05.07
+
+- `alpine-nginx-nodejs`: upgraded to Node.js `v6.3.0`.
+
+### Releases
+
+- [Release `v4.3.0` of `alpine-nginx-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nginx-nodejs-v4.3.0/alpine-nginx-nodejs)
+
+## 2017.03.31
+
+- `alpine-nodejs`: upgraded to Node.js `v6.10.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.10.1`.
+
+### Releases
+
+- [Release `v5.10.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.10.0/alpine-consul-nodejs)
+- [Release `v5.10.1` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.10.1/alpine-consul-nodejs)
+
+## 2017.03.30
+
+- `alpine-nodejs`: upgraded to Node.js `v6.9.2`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.3`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.4`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.5`.
+
+### Releases
+
+- [Release `v5.9.2` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.2/alpine-consul-nodejs)
+- [Release `v5.9.3` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.3/alpine-consul-nodejs)
+- [Release `v5.9.4` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.4/alpine-consul-nodejs)
+- [Release `v5.9.5` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.5/alpine-consul-nodejs)
+
+## 2017.03.29
+
+- `alpine-nodejs`: upgraded to Node.js `v6.9.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.1`.
+
+### Releases
+
+- [Release `v5.9.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.0/alpine-consul-nodejs)
+- [Release `v5.9.1` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.1/alpine-consul-nodejs)
+
+## 2017.03.23
+
+- `alpine-nodejs`: upgraded to Node.js `v6.4.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.5.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.6.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.7.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.8.0`.
+
+### Releases
+
+- [Release `v5.4.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.4.0/alpine-consul-nodejs)
+- [Release `v5.5.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.5.0/alpine-consul-nodejs)
+- [Release `v5.6.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.6.0/alpine-consul-nodejs)
+- [Release `v5.7.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.7.0/alpine-consul-nodejs)
+- [Release `v5.8.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.8.0/alpine-consul-nodejs)
+
+## 2017.03.22
+
+- `alpine-nodejs`: upgraded to Node.js `v6.10.0`.
+
+### Releases
+
+- [Release `v6.7.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.7.0/alpine-nodejs)
+
+## 2017.03.21
+
+- `alpine-nodejs`: upgraded to Node.js `v6.9.2`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.3`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.4`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.5`.
+
+### Releases
+
+- [Release `v6.6.2` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.2/alpine-nodejs)
+- [Release `v6.6.3` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.3/alpine-nodejs)
+- [Release `v6.6.4` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.4/alpine-nodejs)
+- [Release `v6.6.5` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.5/alpine-nodejs)
+
+## 2017.03.20
+
+- `alpine-nodejs`: upgraded to Node.js `v6.7.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.8.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.1`.
+
+### Releases
+
+- [Release `v6.4.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.4.0/alpine-nodejs)
+- [Release `v6.5.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.5.0/alpine-nodejs)
+- [Release `v6.6.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.0/alpine-nodejs)
+- [Release `v6.6.1` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.1/alpine-nodejs)
+
+## 2017.03.17
+
+- `alpine-nodejs`: upgraded to Node.js `v6.4.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.5.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.6.0`.
+
+### Releases
+
+- [Release `v6.1.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.1.0/alpine-nodejs)
+- [Release `v6.2.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.2.0/alpine-nodejs)
+- [Release `v6.3.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.3.0/alpine-nodejs)
+
+## 2016.11.12
+
+- `alpine-consul-nodejs`: upgraded to Node.js `v6.3.1`.
+- `alpine-nodejs`: upgraded to Node.js `v6.3.1`.
+- `alpine-consul`: upgraded to Consul `v0.7.1`.
+- `alpine-consul`: go-dnsmasq is now run as the go-dnsmasq user.
+- `alpine-consul-base`: now inherits from `alpine-consul:3.1.1`.
+
+### Releases
+
+- [Release `v5.3.1` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.3.1/alpine-consul-nodejs)
+- [Release `v6.0.1` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.0.1/alpine-nodejs)
+- [Release `v3.1.1` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v3.1.1/alpine-consul)
+- [Release `v4.1.1` of `alpine-consul-base`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-base-v4.1.1/alpine-consul-base)
+
+## 2016.10.30
+
+- `alpine-consul-redis`: upgraded to `alpine-consul-base:4.1.0`.
+- `alpine-consul-ui`: upgraded to `alpine-consul:1.1.0`.
+- `alpine-consul-ui`: updated to take advantage of `consul-join-wan` script and environment variables `$CONSUL_RETRY_INTERVAL`, `$CONSUL_DOMAIN`, `$CONSUL_DC` and `$CONSUL_CLIENT`. `alpine-consul-ui` `run` script is now inline with the `alpine-consul` `run` script.
+- `alpine-consul-apache`: upgraded to `alpine-consul-base:4.1.0`.
+- `alpine-consul-apache`: added `apk upgrade`.
+- `alpine-consul-apache`: updated to use Consul's built-in HTTP(s) check.
+- `alpine-consul-apache`: fixed Apache runtime error by adding `mkdir -p /run/apache2/` to the `Dockerfile`.
+- Updated the `user-consul-ui` example to use Docker Compose.
+- Updated the `user-consul-apache` example to use Docker Compose. Show's it running with a cluster.
+
+### Releases
+
+- [Release `v2.1.0` of `alpine-consul-redis`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-redis-v2.1.0/alpine-consul-redis)
+- [Release `v2.1.0` of `alpine-consul-ui`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-ui-v2.1.0/alpine-consul-ui)
+- [Release `v2.0.0` of `alpine-consul-apache`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-apache-v2.0.0/alpine-consul-apache)
+
+## 2016.10.23
+
+- `alpine-consul-nodejs`: upgraded to `alpine-consul-base:4.1.0`.
+- `alpine-consul-nginx`: upgraded to `alpine-consul-base:4.1.0`.
+
+### Releases
+
+- [Release `v5.3.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.3.0/alpine-consul-nodejs)
+- [Release `v3.1.0` of `alpine-consul-nginx`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nginx-v3.1.0/alpine-consul-nginx)
+
+## 2016.10.21
+
+- `alpine-apache`: merged in changes to resolve an issue with Apache quitting.
+- `alpine-apache`: upgraded to Apache `v2.4.23`.
+- `alpine-base`: upgraded go-dnsmasq to `v1.0.7` (resolves DNS issues on container restarts https://github.com/janeczku/go-dnsmasq/issues/18).
+- `alpine-base`: upgraded s6-overlay to `v1.18.1.5`.
+- `alpine-confd`: upgraded FROM to `alpine-base:3.1.0`.
+- `alpine-consul`: upgraded FROM to `alpine-base:3.1.0`.
+- `alpine-consul`: upgraded Consul to `v0.7.0`.
+- `alpine-consul-base`: added `apk upgrade`.
+- `alpine-consul-base`: upgraded consul-template to v0.16.0.
+- `alpine-consul-nodejs`: added `apk upgrade`.
+- `alpine-consul-nginx`: added `apk upgrade`.
+- `alpine-consul-redis`: added `apk upgrade`.
+- `alpine-consul`: removed the `finish` file. This was bringing down the container unnecessarily. If Consul dies, no need to bring down the container. Restart Consul, let it reload the configuration files and attempt to re-join the cluster.
+- `alpine-consul`: update `-dc` to `-datacenter`.
+- `examples/complete`: adding `NODEJS_EXIT` to the environment variables for the `app` service will cause Node.js to exit between 1 minute and 1.5 minutes. This is to simulate nodes going down, to test them rejoining the Consul cluster.
+- Upgraded the Vagrant VM to a new box (based on Ubuntu 16.04). I was running into issues building images which issue `setcap` (after Docker 1.10, https://github.com/docker/docker/issues/20658). This upgrade has resolved those issues. If you're contributing to docker-alpine, you should destroy your VM and set it up again (after a `git pull`).
+
+### Releases
+
+- [Release `v2.0.1` of `alpine-apache`](https://github.com/smebberson/docker-alpine/tree/alpine-apache-v2.0.1/alpine-apache)
+- [Release `v3.1.0` of `alpine-base`](https://github.com/smebberson/docker-alpine/tree/alpine-apache-v3.1.0/alpine-base)
+- [Release `v3.1.0` of `alpine-confd`](https://github.com/smebberson/docker-alpine/tree/alpine-apache-v3.1.0/alpine-confd)
+- [Release `v3.1.0` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-apache-v3.1.0/alpine-consul)
+
+## 2016.09.12
+
+- `alpine-confd`: upgraded to `alpine-base v3.0.0`.
+
+### Releases
+
+- [Release `v3.0.0` of `alpine-confd`](https://github.com/smebberson/docker-alpine/tree/alpine-confd-v3.0.0/alpine-confd)
+
 ## 2016.07.28
 
 - `alpine-nginx-nodejs`: upgraded Node.js to v6.2.1.

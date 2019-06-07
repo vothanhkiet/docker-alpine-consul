@@ -4,9 +4,63 @@ This file contains all software versions, that correspond to a version of this i
 
 ## Latest
 
-Same as v4.0.0.
+Same as v4.2.0.
 
 Usage: `smebberson/alpine-consul-base` or `smebberson/alpine-consul-base:latest`.
+
+## v4.2.0
+
+- [smebberson/alpine-consul: v3.2.0][alpineconsul320]
+
+Improvements:
+
+- Everything from the `v4.2.0` beta rounds.
+- consul-template was upgraded to `v0.19.0`.
+
+Usage: `smebberson/alpine-consul-base:4.2.0`.
+
+## v4.2.0-beta.2
+
+- [smebberson/alpine-consul: v3.2.0-beta.2][alpineconsul320beta2]
+
+Improvements:
+
+- This release updates to [alpine-consul v3.2.0-beta.2 which contains changes to the Consul setup.](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul/VERSIONS.md#v320-beta2).
+
+Usage: `smebberson/alpine-consul-base:4.2.0-beta.2`.
+
+## v4.2.0-beta.1
+
+- [smebberson/alpine-consul: v3.2.0-beta.1][alpineconsul320beta1]
+
+Improvements:
+
+- This release updates to [alpine-consul v3.2.0-beta.1 which contains changes to the Consul setup.](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul/VERSIONS.md#v320-beta1).
+- Added `CONSUL_TEMPLATE_RUNAS` to customise which user runs consul-template.
+- Added `CONSUL_RUNAS`to customise which user runs consul.
+- Updated consul-template to v0.18.5.
+
+Usage: `smebberson/alpine-consul-base:4.2.0-beta.1`.
+
+## v4.1.1
+
+- [smebberson/alpine-consul: v3.1.1][alpineconsul311]
+
+Improvements:
+
+- This release updates to [alpine-consul v3.1.1 which contains minor changes to the Consul setup.](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul/VERSIONS.md#v311).
+
+Usage: `smebberson/alpine-consul-base:4.1.1`.
+
+## v4.1.0
+
+- [smebberson/alpine-consul: v3.1.0][alpineconsul310]
+
+Improvements:
+
+- This release updates to [alpine-consul v3.1.0 which contains changes to the Consul setup.](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul/VERSIONS.md#v310). You should review them as required.
+
+Usage: `smebberson/alpine-consul-base:4.1.0`.
 
 ## v4.0.0
 
@@ -61,6 +115,11 @@ Usage: `smebberson/alpine-consul-base:1.0.0`.
 
 [alpineconsulbase]: https://github.com/smebberson/docker-alpine/tree/master/alpine-consul-base
 [alpineconsul]: https://github.com/smebberson/docker-alpine/tree/master/alpine-consul
+[alpineconsul320]: https://github.com/smebberson/docker-alpine/tree/alpine-consul-v3.2.0/alpine-consul
+[alpineconsul320beta2]: https://github.com/smebberson/docker-alpine/tree/alpine-consul-v3.2.0-beta.2/alpine-consul
+[alpineconsul320beta1]: https://github.com/smebberson/docker-alpine/tree/alpine-consul-v3.2.0-beta.1/alpine-consul
+[alpineconsul311]: https://github.com/smebberson/docker-alpine/tree/alpine-consul-v3.1.1/alpine-consul
+[alpineconsul310]: https://github.com/smebberson/docker-alpine/tree/alpine-consul-v3.1.0/alpine-consul
 [alpineconsul300]: https://github.com/smebberson/docker-alpine/tree/alpine-consul-v3.0.0/alpine-consul
 [alpineconsul200]: https://github.com/smebberson/docker-alpine/tree/alpine-consul-v2.0.0/alpine-consul
 [alpineconsul110]: https://github.com/smebberson/docker-alpine/tree/alpine-consul-v1.1.0/alpine-consul

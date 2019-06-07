@@ -6,6 +6,22 @@ You can [read more about how these images are versioned here](https://github.com
 
 ## 6.x Current branch of Node.js
 
+- Node v6.11.0: [v6.11.0](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v5110)
+- Node v6.10.1: [v6.10.1](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v5101)
+- Node v6.10.0: [v6.10.0](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v5100)
+- Node v6.9.5: [v6.9.5](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v595)
+- Node v6.9.4: [v6.9.4](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v594)
+- Node v6.9.3: [v6.9.3](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v593)
+- Node v6.9.2: [v6.9.2](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v592)
+- Node v6.9.1: [v6.9.1](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v591)
+- Node v6.9.0: [v6.9.0](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v590)
+- Node v6.8.0: [v6.8.0](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v580)
+- Node v6.7.0: [v6.7.0](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v570)
+- Node v6.6.0: [v6.6.0](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v560)
+- Node v6.5.0: [v6.5.0](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v550)
+- Node v6.4.0: [v6.4.0](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v540)
+- Node v6.3.1: [v6.3.1](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v531)
+- Node v6.3.0: [v6.3.0](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v530)
 - Node v6.2.2: [v5.2.2](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v522)
 - Node v6.2.1: [v5.2.1](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v521)
 - Node v6.2.0: [v5.2.0](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md#v520)

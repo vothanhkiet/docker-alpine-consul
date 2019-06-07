@@ -4,9 +4,79 @@ This file contains all software versions, that correspond to a version of this i
 
 ## Latest
 
-Same as v3.0.0.
+Same as v3.2.0.
 
 Usage: `smebberson/alpine-consul` or `smebberson/alpine-consul:latest`.
+
+## v3.2.0
+
+- [smebberson/alpine-base: v3.2.0][smebbersonalpinebase310]
+- [consul v0.8.5][consul]
+
+Improvements:
+
+- Everything from the `v3.2.0` beta rounds.
+- Consul was upgraded to `v0.8.5`.
+
+Usage: `smebberson/alpine-consul:3.2.0`.
+
+## v3.2.0-beta.2
+
+- [smebberson/alpine-base: v3.2.0][smebbersonalpinebase320]
+- [consul v0.8.4][consul]
+
+Improvements:
+
+- Consul was upgraded to `v0.8.4`.
+- Added `util-linux` package for `uuidgen` binary.
+- `consul-node-id` now uses `uuidgen` for better UUID generation that doesn't clash.
+
+Usage: `smebberson/alpine-consul:3.2.0-beta.2`.
+
+## v3.2.0-beta.1
+
+- [smebberson/alpine-base: v3.2.0][smebbersonalpinebase320]
+- [consul v0.8.3][consul]
+
+Improvements:
+
+- Consul was upgraded to `v0.8.3`.
+- go-dnsmasq run user is now configurable via `GO_DNSMASQ_RUNAS`.
+- Consul run user is now configurable via `CONSUL_RUNAS`.
+- The Consul bootstrap process will now output debug information to `CONSUL_BOOTSTRAP_LOG_FILE` (defaults to `/var/log/consul-bootstrap/consul-bootstrap.log`). Set `CONSUL_BOOTSTRAP_DEBUG` to `true`.
+- Added the new `-data-id` argument (customisable via replacing the `/usr/bin/consul-node-id` script).
+- Added the `-data-dir` argument (customisable via `CONSUL_DATA_DIR`).
+- Exposed 8600 and 8600/udp by default.
+- Added the `CONSUL_AVAILABLE_SLEEP` ENV variable to customise the amount of seconds to sleep between checking for other consul servers
+
+Usage: `smebberson/alpine-consul:3.2.0-beta.1`.
+
+## v3.1.1
+
+- [smebberson/alpine-base: v3.1.0][smebbersonalpinebase310]
+- [consul v0.7.1][consul]
+
+Improvements:
+
+- Consul was upgraded to `v0.7.1`.
+- go-dnsmasq is now run as the user go-dnsmasq.
+
+Usage: `smebberson/alpine-consul:3.1.1`.
+
+## v3.1.0
+
+- [smebberson/alpine-base: v3.1.0][smebbersonalpinebase310]
+- [consul v0.7.0][consul]
+
+Improvements:
+
+- Consul was upgraded to `v0.7.0`.
+- Containers no longer exit if Consul dies. Consul is simply restarted.
+- `CONSUL_ADVERTISE_WAN` environment variable can be set to alter the IP Consul reports to WAN.
+- `CONSUL_JOIN_WAN` environment variable can be set to make Consul communicate over WAN.
+- `CONSUL_DC` environment variable can be set to alter the name of the data center that Consul reports.
+
+Usage: `smebberson/alpine-consul:3.1.0`.
 
 ## v3.0.0
 
@@ -66,6 +136,8 @@ Usage: `smebberson/alpine-consul:1.0.0`.
 [consul]: https://consul.io/
 [consulupgrade]: https://www.consul.io/docs/upgrade-specific.html
 [alpineconsul]: https://github.com/smebberson/docker-alpine/tree/master/alpine-consul
+[smebbersonalpinebase320]: https://github.com/smebberson/docker-alpine/blob/alpine-base-v3.2.0/alpine-base
+[smebbersonalpinebase310]: https://github.com/smebberson/docker-alpine/blob/alpine-base-v3.1.0/alpine-base
 [smebbersonalpinebase300]: https://github.com/smebberson/docker-alpine/blob/alpine-base-v3.0.0/alpine-base
 [smebbersonalpinebase200]: https://github.com/smebberson/docker-alpine/blob/alpine-base-v2.0.0/alpine-base
 [smebbersonalpinebase120]: https://github.com/smebberson/docker-alpine/blob/alpine-base-v1.2.0/alpine-base
